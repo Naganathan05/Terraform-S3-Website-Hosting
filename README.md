@@ -12,8 +12,7 @@ This project provides Terraform code to create an Amazon S3 bucket with static w
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-terraform-s3-website.git
-   cd your-terraform-s3-website
+   https://github.com/Naganathan05/Terraform-S3-Website-Hosting.git
    
 2. **Terraform Initialization:**
    ```bash
